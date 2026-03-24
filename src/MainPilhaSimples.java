@@ -16,6 +16,7 @@ public class MainPilhaSimples {
         pilhaSimples.desempilhar();
         pilhaSimples.desempilhar();
         pilhaSimples.quantidadeElementos();
+        pilhaSimples.exibirPilha();
         pilhaSimples.mostrarTopo();
     }
 }
